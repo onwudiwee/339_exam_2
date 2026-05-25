@@ -1,6 +1,10 @@
 /* YOUR CSS MUST GO HERE */
 /* There will be deductions for uncessary extra code. */
-
+@media (min-width: 725px) {
+    .gallery {
+        grid-template-columns: 45% 45%;
+    }
+}
 
 
 
